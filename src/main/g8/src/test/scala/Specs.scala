@@ -1,4 +1,4 @@
-import $package$
+import $package$._
 import org.scalatest.matchers.ShouldMatchers
 import org.scalatest.FunSpec
 
